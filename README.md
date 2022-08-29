@@ -6,12 +6,9 @@
 Collaborated with 150 classmates to complete a complicated compiler, responsible for implementing big numbers, including the arithmetic operators and related functions
 
 ### Run Locally
-* Run this Command: git clone https://github.com/b05702057/Group-Chocopy-Wasm-Compiler.git
-* Run this Command: npm install
-* Run this Command: npm test
-* Run this Command: npm run build-web
-* Open the file build/index.html in a browser
+* Run this Command: cargo run --bin kv-server
+* Run this Command: cargo run --bin kv-client
 
 ### Note
-* The detailed tasks are recorded here: https://ucsd-cse231-s22.github.io/week/week6/#project-milestone-tests.
+* The detailed tasks are recorded here: https://canvas.ucsd.edu/courses/36677.
 * More information about Chocopy: https://chocopy.org/
